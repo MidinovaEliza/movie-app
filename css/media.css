@@ -1,0 +1,33 @@
+@media (max-width: 340px){
+    .container{
+        width: 339px;
+
+    }
+    .hero{
+        padding-top: 60px;
+    }
+.hero__elem{
+    width: 70px;
+    padding: 2px 4px;
+}.fa-star{
+    font-size: 10px;
+ }
+ .title1{
+     font-size: 30px;
+     margin-top: 10px;
+     line-height: 40px;
+ }
+ .subtitle{
+     width: 280px;
+ }
+ .btn{
+     width: 150px;
+     padding: 10px;
+     font-size: 14px;
+ }
+ .h4{
+     margin-left: 5px;
+     margin-top: 5px;
+ }
+
+}
